@@ -13,13 +13,13 @@ misconceptions, lack of knowledge about workout benefit to mother and child for 
 How can we help women achieve pre and post-natal fitness?
 
 ## Potential Solution
-• Personalized exercises and diet
-• Provide reminders
-• Regular Health status
-• Provide women with a sense of motivation to take up general fitness routines.
-• Easy and guided meditation to help anxiety and stress.
-• Attend live pre & post-natal classes and couple sessions.
-• Support Community
+* Personalized exercises and diet
+* Provide reminders
+* Regular Health status
+* Provide women with a sense of motivation to take up general fitness routines.
+* Easy and guided meditation to help anxiety and stress.
+* Attend live pre & post-natal classes and couple sessions.
+* • Support Community
 
 ## Goal
 Make an app that is easy for mother as well as relatives to understand the use of pregnancy fitness.

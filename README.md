@@ -28,8 +28,10 @@ Make an app that is easy for mother as well as relatives to understand the use o
 Parents in their 25 to 45 range.
 Relatives from any age group.
 
-## Screenshots
+## App Demo
+<video src="https://github.com/Ankita-06/The-Mom-Care/tree/main/assets/screenshots/AppDemo.mp4" width="300" />
 
+## Screenshots
 ### OnBoarding Screens
 <img src="assets/screenshots/Splash.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/OnBoard1.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/OnBoard2.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/OnBoard3.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/OnBoard4.jpg" height="300em" />
 

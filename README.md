@@ -31,3 +31,4 @@ Relatives from any age group.
 ## Screenshots
 
 ### Splash Screen
+<img src="assets/screenshots/Splash.jpg" height="300em" />

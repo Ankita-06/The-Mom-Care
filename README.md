@@ -32,3 +32,6 @@ Relatives from any age group.
 
 ### OnBoarding Screens
 <img src="assets/screenshots/Splash.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/OnBoard1.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/OnBoard2.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/OnBoard3.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/OnBoard4.jpg" height="300em" />
+
+### Register Screens
+<img src="assets/screenshots/Register.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/Login1.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/ForgotPassword.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/AddDetails.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/Loading.jpg" height="300em" />

@@ -29,7 +29,7 @@ Parents in their 25 to 45 range.
 Relatives from any age group.
 
 ## App Demo
-<video src="https://github.com/Ankita-06/The-Mom-Care/tree/main/assets/screenshots/AppDemo" width="300" />
+
 
 ## Screenshots
 ### OnBoarding Screens

@@ -41,3 +41,6 @@ Relatives from any age group.
 
 ### Workout Screens
 <img src="assets/screenshots/Workout1.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/Workout2.jpg" height="300em" />
+
+### Meditation Screens
+<img src="assets/screenshots/Meditation1.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/Meditation2.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/Meditation3.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/Meditation4.jpg" height="300em" />

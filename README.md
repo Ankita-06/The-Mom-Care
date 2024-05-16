@@ -19,7 +19,7 @@ How can we help women achieve pre and post-natal fitness?
 * Provide women with a sense of motivation to take up general fitness routines.
 * Easy and guided meditation to help anxiety and stress.
 * Attend live pre & post-natal classes and couple sessions.
-* • Support Community
+* Support Community
 
 ## Goal
 Make an app that is easy for mother as well as relatives to understand the use of pregnancy fitness.

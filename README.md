@@ -35,3 +35,7 @@ Relatives from any age group.
 
 ### Register Screens
 <img src="assets/screenshots/Registers.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/Login.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/ForgotPassword.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/AddDetails.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/Welcome.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/Loading.jpg" height="300em" />
+
+### Home Screen
+### Register Screens
+<img src="assets/screenshots/HomePage.jpg" height="300em" />

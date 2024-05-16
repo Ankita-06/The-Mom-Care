@@ -30,5 +30,5 @@ Relatives from any age group.
 
 ## Screenshots
 
-### Splash Screen
-<img src="assets/screenshots/Splash.jpg" height="300em" />
+### OnBoarding Screens
+<img src="assets/screenshots/Splash.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/OnBoard1.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/OnBoard2.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/OnBoard3.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/OnBoard4.jpg" height="300em" />

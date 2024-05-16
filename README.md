@@ -40,4 +40,4 @@ Relatives from any age group.
 <img src="assets/screenshots/HomePage.jpg" height="300em" />
 
 ### Workout Screens
-<img src="assets/screenshots/Workout1.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/Workout1.jpg" height="300em" />
+<img src="assets/screenshots/Workout1.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/Workout2.jpg" height="300em" />

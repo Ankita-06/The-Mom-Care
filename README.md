@@ -47,3 +47,6 @@ Relatives from any age group.
 
 ### Nutrition Screens
 <img src="assets/screenshots/Nutrition1.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/Nutrition2.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/Nutrition3.jpg" height="300em" />
+
+### Chats Screens
+<img src="assets/screenshots/Chats.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="assets/screenshots/FAQs.jpg" height="300em" />
